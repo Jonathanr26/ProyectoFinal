@@ -1,0 +1,25 @@
+{
+  "name": "ProyectoFinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js 2+2+2",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathanr26/ProyectoFinal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathanr26/ProyectoFinal/issues"
+  },
+  "homepage": "https://github.com/Jonathanr26/ProyectoFinal#readme",
+  "dependencies": {
+    "mathjs-expression-parser": "^1.0.2",
+    "nodemon": "^2.0.7"
+  }
+}
